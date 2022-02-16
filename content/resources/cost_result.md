@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-000-solving-complex-problems-fall-2003/53abd65967419697b6c08ebebbcca1cf_cost_result.pdf
+file: /media/courses/12-000-solving-complex-problems-fall-2003/53abd65967419697b6c08ebebbcca1cf_cost_result.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: cost_result.pdf
 uid: 53abd659-6741-9697-b6c0-8ebebbcca1cf
