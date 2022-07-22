@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: dd9ffc10-50bf-d6cd-6e01-44621a70ba19
 title: Mission 2006
 uid: c84af0d6-6c0e-5cff-8766-66c2489a5252
