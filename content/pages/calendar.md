@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -73,7 +74,7 @@ Library Skills Discussion (General Information Session)
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Perspectives I ([PDF]({{< baseurl >}}/resources/perspectives1))
+Perspectives I ({{% resource_link ec3402e5-f154-1152-58cb-87d8fec389d4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +101,7 @@ Team Meeting
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Perspectives II ([PDF]({{< baseurl >}}/resources/perspectives2))
+Perspectives II ({{% resource_link 058e20d6-47df-2fc0-fd04-d98443b70d9e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +128,7 @@ Full Meeting
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Perspectives III ([PDF]({{< baseurl >}}/resources/perspectives3))
+Perspectives III ({{% resource_link d7d1328e-ccdc-6f64-6731-58f09aca1764 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,7 +155,7 @@ Team Meeting
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Perspectives IV ([PDF]({{< baseurl >}}/resources/perspectives4))
+Perspectives IV ({{% resource_link c579b49b-a6ee-70af-c35e-93d93cb8b9c1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
