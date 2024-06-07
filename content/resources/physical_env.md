@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-000-solving-complex-problems-fall-2003/1c72f4c1285ffc0c178cd06f07debf61_physical_env.pdf
+file_size: 204141
 file_type: application/pdf
 learning_resource_types:
 - Projects

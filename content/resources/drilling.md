@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-000-solving-complex-problems-fall-2003/e9286fa4c5c295f9df5ae3e17f6b79bb_drilling.pdf
+file_size: 170028
 file_type: application/pdf
 learning_resource_types:
 - Projects

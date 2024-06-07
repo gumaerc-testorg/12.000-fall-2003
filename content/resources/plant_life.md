@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-000-solving-complex-problems-fall-2003/447304d451b824c96e2141e5cae9a39c_plant_life.pdf
+file_size: 146948
 file_type: application/pdf
 learning_resource_types:
 - Projects
