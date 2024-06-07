@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-000-solving-complex-problems-fall-2003/04345047e2c330601bb93501bf05f81b_cost_benefit.pdf
+file_size: 171333
 file_type: application/pdf
 learning_resource_types:
 - Projects

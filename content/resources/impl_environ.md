@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-000-solving-complex-problems-fall-2003/7001e844dfbb03c56a45afae17ad1f2f_impl_environ.pdf
+file_size: 467746
 file_type: application/pdf
 learning_resource_types:
 - Projects

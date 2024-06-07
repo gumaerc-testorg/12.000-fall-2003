@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-000-solving-complex-problems-fall-2003/eaead2bd0e153352e19f49a828506157_cost_intro.pdf
+file_size: 142740
 file_type: application/pdf
 learning_resource_types:
 - Projects
