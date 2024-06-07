@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-000-solving-complex-problems-fall-2003/ec3402e5f154115258cb87d8fec389d4_perspectives1.pdf
+file_size: 705596
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
