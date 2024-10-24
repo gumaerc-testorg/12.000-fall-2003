@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-000-solving-complex-problems-fall-2003/00cd272a9cf770322a5a3675af5d4204_hydrocarbon_r.pdf
+file: /ol-ocw-studio-app/courses/12-000-solving-complex-problems-fall-2003/00cd272a9cf770322a5a3675af5d4204_hydrocarbon_r.pdf
 file_size: 287200
 file_type: application/pdf
 learning_resource_types:

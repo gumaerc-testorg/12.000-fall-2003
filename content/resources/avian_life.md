@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-000-solving-complex-problems-fall-2003/f3d1883f737966ea69246caf5288d558_avian_life.pdf
+file: /ol-ocw-studio-app/courses/12-000-solving-complex-problems-fall-2003/f3d1883f737966ea69246caf5288d558_avian_life.pdf
 file_size: 156586
 file_type: application/pdf
 learning_resource_types:
