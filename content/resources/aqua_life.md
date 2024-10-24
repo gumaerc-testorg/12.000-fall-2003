@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-000-solving-complex-problems-fall-2003/123de9401c0562498c57fedec8bac797_aqua_life.pdf
+file: /ol-ocw-studio-app/courses/12-000-solving-complex-problems-fall-2003/123de9401c0562498c57fedec8bac797_aqua_life.pdf
 file_size: 318414
 file_type: application/pdf
 learning_resource_types:
