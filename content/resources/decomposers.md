@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-000-solving-complex-problems-fall-2003/4fb6ef9bd0aff30a218634402573ce10_decomposers.pdf
+file: /courses/12-000-solving-complex-problems-fall-2003/4fb6ef9bd0aff30a218634402573ce10_decomposers.pdf
 file_size: 215579
 file_type: application/pdf
 learning_resource_types:

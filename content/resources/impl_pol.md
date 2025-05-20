@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-000-solving-complex-problems-fall-2003/714d8b69c4b05d76494b41b0fdc21643_impl_pol.pdf
+file: /courses/12-000-solving-complex-problems-fall-2003/714d8b69c4b05d76494b41b0fdc21643_impl_pol.pdf
 file_size: 157475
 file_type: application/pdf
 learning_resource_types:
