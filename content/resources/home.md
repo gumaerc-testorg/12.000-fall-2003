@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Introduction to the Mission 2007 Project
-file: /ol-ocw-studio-app/courses/12-000-solving-complex-problems-fall-2003/6ef2a0e1f8d056505cb66656f448f14c_home.pdf
+file: /courses/12-000-solving-complex-problems-fall-2003/6ef2a0e1f8d056505cb66656f448f14c_home.pdf
 file_size: 139080
 file_type: application/pdf
 learning_resource_types:
