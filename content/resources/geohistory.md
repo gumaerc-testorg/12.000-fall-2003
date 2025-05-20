@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-000-solving-complex-problems-fall-2003/52e6577cafc32c2eb313bcfaa66ef453_geohistory.pdf
+file: /courses/12-000-solving-complex-problems-fall-2003/52e6577cafc32c2eb313bcfaa66ef453_geohistory.pdf
 file_size: 149795
 file_type: application/pdf
 learning_resource_types:
