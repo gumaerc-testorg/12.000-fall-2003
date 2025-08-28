@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-000-solving-complex-problems-fall-2003/14be20b7a37fc072838662aecee6a0a5_transport.pdf
+file: /ol-ocw-studio-app/courses/12-000-solving-complex-problems-fall-2003/14be20b7a37fc072838662aecee6a0a5_transport.pdf
 file_size: 143544
 file_type: application/pdf
 learning_resource_types:
