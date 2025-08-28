@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-000-solving-complex-problems-fall-2003/2983d23674f3efe7d009a33917556d5d_pipeline.pdf
+file: /ol-ocw-studio-app/courses/12-000-solving-complex-problems-fall-2003/2983d23674f3efe7d009a33917556d5d_pipeline.pdf
 file_size: 142723
 file_type: application/pdf
 learning_resource_types:

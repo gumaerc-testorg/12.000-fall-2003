@@ -45,10 +45,10 @@
     "website": "12-000-solving-complex-problems-fall-2003"
   },
   "learning_resource_types": [
-    "Course Introduction",
     "Presentation Assignments"
   ],
   "site_uid": "00d4cec0-60f1-4f9c-8a93-84e2febfe522",
   "site_short_id": "12.000-fall-2003",
+  "site_url_path": "courses/12-000-solving-complex-problems-fall-2003",
   "title": "Course Metadata"
 }
